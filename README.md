@@ -7,12 +7,12 @@ Institut Teknologi Sepuluh Nopember (ITS)
 
 ## 👥 Identity
 
-| # | Name | Student ID (NRP) |
-|---|------|------------------|
-| 1 | Athar Rozy Rasyidan | 5025251009 |
-| 2 |  | [NRP 2] |
-| 3 | [Group Member 3] | [NRP 3] |
-| 4 | [Group Member 4] | [NRP 4] |
+|    NRP     |           Nama             |
+| :--------: |       :------------:       |
+| 5025251260 | Aqilah Ibrahim             |
+| 5025251161 | Rizqi Arya Kuskhilbyano    |
+| 5025251009 | Athar Rozy Rasyidan                    |
+| 5025251017 | Wafi Fawwaz Sutisna                    |
 
 ---
 
