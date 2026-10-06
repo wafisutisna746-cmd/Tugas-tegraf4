@@ -89,7 +89,7 @@ F   0  0  0  1  1  0
 
 ## AI Disclosure Statement
 
-In accordance with course guidelines (Slide 14):
-- AI assistance (Google Antigravity / Gemini) was used to help structure the Tkinter GUI layout and verify matrix calculations against lecture slide examples.
+- AI assistance (Google Antigravity / Gemini) was used to help structure parts of the code, Tkinter GUI layout and verify matrix calculations against lecture slide examples.
+<img width="961" height="677" alt="image" src="https://github.com/user-attachments/assets/6a98e9c3-d45b-4146-b41f-1d95f3b6c9c1" />
 - All algorithms (spanning tree selection, fundamental cycle derivation, cut-set formation) were tested, understood, and validated by the group.
-- Prompt history is archived and available upon request.
+https://share.gemini.google/ArFWQW5cbWrJ
