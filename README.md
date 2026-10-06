@@ -5,7 +5,7 @@ Institut Teknologi Sepuluh Nopember (ITS)
 
 ---
 
-## 👥 Identity
+## Identity
 
 |    NRP     |           Nama             |
 | :--------: |       :------------:       |
@@ -16,7 +16,7 @@ Institut Teknologi Sepuluh Nopember (ITS)
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python >= 3.10
 - Dependencies:
@@ -27,7 +27,7 @@ pip install networkx matplotlib numpy
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 Run the main application script:
 
@@ -37,7 +37,7 @@ python graph_visualizer.py
 
 ---
 
-## 🎮 Usage
+## Usage
 
 ### 1. Choose Input Representation
 - **Adjacency Matrix:** Square $n \times n$ matrix where entry $[i][j] = 1$ if there is an edge connecting vertex $i$ and $j$.
@@ -60,7 +60,7 @@ python graph_visualizer.py
 
 ---
 
-## 📥 Sample Input / Output
+## Sample Input / Output
 
 ### Example: AI Service Architecture (Slide 12 Exercise)
 
@@ -87,7 +87,7 @@ F   0  0  0  1  1  0
 
 ---
 
-## 🤖 AI Disclosure Statement
+## AI Disclosure Statement
 
 In accordance with course guidelines (Slide 14):
 - AI assistance (Google Antigravity / Gemini) was used to help structure the Tkinter GUI layout and verify matrix calculations against lecture slide examples.
